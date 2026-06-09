@@ -13,7 +13,7 @@ def main() -> QuerySet:
     actors_to_create = [
         ("George", "Klooney"),
         ("Kianu", "Reaves"),
-        ("Scarlett", "Keagan"),
+        ("Scarlett", "Keegan"),
         ("Will", "Smith"),
         ("Jaden", "Smith"),
         ("Scarlett", "Johansson"),
